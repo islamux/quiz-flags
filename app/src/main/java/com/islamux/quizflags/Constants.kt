@@ -11,51 +11,54 @@ object Constants {
         // Question 1
         val questionOne = QuestionModule(
             1,
-            "كم يعبد المسيحي ؟",
+            "What country does this flag belong to?",
             R.drawable.ic_flag_of_argentina,
-            "إله واحد ",
-            "الهين ",
-            "ثلاثة آلهة",
-            "اكثر من ذالك",
-            4)
-
+            "Argentine",
+            "Belize",
+            "Brunei",
+            "Brazil",
+            1)
         questionsList.add(questionOne)
 
         // Question 2
         val  questionTwo = QuestionModule(
             2,
-            "كم عدد الكتب التي يؤمن بها المسيحي ؟",
+            "What country does this flag belong to?",
             R.drawable.ic_flag_of_australia,
-            "واحد ",
-            "إثنين ",
-            "ثلاثة ",
-            "أكثر من ذالك",
-            4)
+            "Belarus",
+            "Australia",
+            "Brunei",
+            "Brazil",
+            2)
         questionsList.add(questionTwo)
 
         // Question 3
-        val questionThree = QuestionModule( 3, "What country does this flag belong to?",
+        val questionThree = QuestionModule(
+            3,
+            "What country does this flag belong to?",
             R.drawable.ic_flag_of_brazil,
             "Belarus",
-            "Belize",
+            "Canada",
             "Brunei",
             "Brazil",
             4)
         questionsList.add(questionThree)
 
         // Question 4
-        val questionFour = QuestionModule( 4,
+        val questionFour = QuestionModule(
+            4,
             "What country does this flag belong to?",
             R.drawable.ic_flag_of_belgium,
             "Bahamas",
             "Belgium",
             "Barbados",
-            "Belize",
+            "USA",
             2)
         questionsList.add(questionFour)
 
         // Question 5
-        val questionFive = QuestionModule(  5,
+        val questionFive = QuestionModule(
+            5,
             "What country does this flag belong to?",
             R.drawable.ic_flag_of_fiji,
             "Gabon",
@@ -66,7 +69,8 @@ object Constants {
         questionsList.add(questionFive)
 
         // Question 6
-        val questionSix = QuestionModule( 6,
+        val questionSix = QuestionModule(
+            6,
             "What country does this flag belong to?",
             R.drawable.ic_flag_of_germany,
             "Germany",
@@ -77,7 +81,8 @@ object Constants {
         questionsList.add(questionSix)
 
         // Question 7
-        val questionSeven = QuestionModule(  7,
+        val questionSeven = QuestionModule(
+            7,
             "What country does this flag belong to?",
             R.drawable.ic_flag_of_denmark,
             "Dominica",
@@ -88,7 +93,8 @@ object Constants {
         questionsList.add(questionSeven)
 
         // Question 8
-        val questionEight = QuestionModule(  7,
+        val questionEight = QuestionModule(
+            7,
             "What country does this flag belong to?",
             R.drawable.ic_flag_of_denmark,
             "Dominica",
@@ -99,7 +105,8 @@ object Constants {
         questionsList.add(questionEight)
 
         // Question 9
-        val questionNine = QuestionModule( 9,
+        val questionNine = QuestionModule(
+            9,
             "What country does this flag belong",
             R.drawable.ic_flag_of_new_zealand,
             "Australia",
@@ -110,7 +117,8 @@ object Constants {
         questionsList.add(questionNine)
 
         // Question 10
-        val questionTen = QuestionModule( 10,
+        val questionTen = QuestionModule(
+            10,
             "What country does this flag belong to?",
             R.drawable.ic_flag_of_kuwait,
             "Kuwait",
@@ -120,6 +128,6 @@ object Constants {
             1)
         questionsList.add(questionTen)
 
-        return questionsList;
+        return questionsList
     }
 }

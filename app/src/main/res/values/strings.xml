@@ -1,14 +1,23 @@
 <resources>
     <string name="app_name">QuizFlags</string>
-    <string name="quiz_app">Quiz App</string>
+    <string name="quiz_app">Quiz Flags</string>
     <string name="QuizApp">أسئلة وأجوبة حول الإيمان المسيحي</string>
-    <string name="name">الإسم</string>
+    <string name="name_ar">الإسم</string>
+    <string name="name">Name</string>
     <string name="please_enter_your_name">من فضلك أدخل إسمك</string>
-    <string name="welcome">مرحبا</string>
+    <string name="please_enter_your_name_1">Please Enter Your Name </string>
+    <string name="welcome_ar">مرحبا</string>
+    <string name="welcome">Welcome</string>
     <string name="start">إبدأ</string>
-    <string name="submit">إعتمد الإجابة</string>
-    <string name="finish">إنهي المسابقة</string>
-    <string name="go_to_next_question">إذهب إلى السؤال التالي</string>
-    <string name="result">النتيجة</string>
-    <string name="hey_congratulations">أهلا ,الف مبروك</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="submit_arabic">إعتمد الإجابة</string>
+    <string name="submit">Submit</string>
+    <string name="finish_arabic">إنهي المسابقة</string>
+    <string name="finish">ٍStart Quiz</string>
+    <string name="go_to_next_question_arabic">إذهب إلى السؤال التالي</string>
+    <string name="go_to_next_question">Go To The Next Question</string>
+    <string name="result_ar">النتيجة</string>
+    <string name="result">Result</string>
+    <string name="hey_congratulations_ar">أهلا ,الف مبروك</string>
+    <string name="hey_congratulations">Congratulation</string>
 </resources>

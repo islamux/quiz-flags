@@ -45,6 +45,5 @@ class ResultActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
-
     }
 }

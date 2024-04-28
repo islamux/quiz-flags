@@ -9,5 +9,4 @@ data class QuestionModule(
     val optionThree: String,
     val optionFour: String,
     val correctAnswer: Int
-
 )
