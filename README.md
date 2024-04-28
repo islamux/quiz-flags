@@ -20,4 +20,4 @@ This is a Kotlin quiz app that tests your knowledge of flags from different coun
 1. Clone this repository using Git:
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/flags-quiz-app.git
+   git clone [https://github.com/](https://github.com/)<your-username>/quiz-flags.git
